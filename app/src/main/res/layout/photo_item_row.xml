@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="3dp"
+    app:cardCornerRadius="2dp"
+    app:cardElevation="2dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/iv_photo"
+            android:layout_width="fill_parent"
+            android:layout_height="100dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/flicker_logo" />
+
+
+        <TextView
+            android:id="@+id/et_photo_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/iv_photo"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:maxLines="1"
+            android:text="Title"
+            android:textColor="@color/colorPrimaryDark" />
+
+        <TextView
+            android:id="@+id/et_photo_owner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/et_photo_title"
+            android:layout_marginBottom="2dp"
+            android:layout_marginRight="10dp"
+            android:text="Owner"
+            android:textColor="@color/colorPrimaryDark" />
+    </RelativeLayout>
+
+
+</android.support.v7.widget.CardView>

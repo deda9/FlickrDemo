@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Programming\Android\1 My Work\Smartec\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="F:\Programming\Android\1 My Work\Smartec\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_b8ea51a5954f7f726fb14d99f108aa3ffa0bc272.jar" />
+    </item>
+    <item
+        jar="F:\Programming\Android\1 My Work\Smartec\app\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="88b1f937ce119c90ac87be62e4bfa5d03fd3a3d4">
+        <dex dex="F:\Programming\Android\1 My Work\Smartec\app\build\intermediates\pre-dexed\debug\classes_16b3975991a1e3040b7e5694b63e2ea5f9984fbc.jar" />
+    </item>
+    <item
+        jar="F:\Programming\Android\1 My Work\Smartec\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="F:\Programming\Android\1 My Work\Smartec\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_1c252ea0ecb9aa9937bd3e118635cd757456fb31.jar" />
+    </item>
+    <item
+        jar="F:\Programming\Android\1 My Work\Smartec\app\libs\volley.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="04b23f428af24a3b67bb50f584349e24d39c775a">
+        <dex dex="F:\Programming\Android\1 My Work\Smartec\app\build\intermediates\pre-dexed\debug\volley_351d20030a34549fdc035bf666faffb4ea6a915e.jar" />
+    </item>
+    <item
+        jar="F:\Programming\Android\1 My Work\Smartec\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="F:\Programming\Android\1 My Work\Smartec\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_1e05c1e36a94f67a41256e0619c8349f1f6112e1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Deda\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="F:\Programming\Android\1 My Work\Smartec\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_de02c4798ddca016cd91deeb92b0c0d36cbc0cc9.jar" />
+    </item>
+    <item
+        jar="F:\Programming\Android\1 My Work\Smartec\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="F:\Programming\Android\1 My Work\Smartec\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_48a166b65295f0aeb6bfd7c285dcacbf06126b09.jar" />
+    </item>
+    <item
+        jar="F:\Programming\Android\1 My Work\Smartec\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="F:\Programming\Android\1 My Work\Smartec\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.1.1_6f7e5037f51f861a6711b9939f3b23e2d10e1c82.jar" />
+    </item>
+    <item
+        jar="F:\Programming\Android\1 My Work\Smartec\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="35112690e5f054ade771e0eb4a04dae73593b0a8">
+        <dex dex="F:\Programming\Android\1 My Work\Smartec\app\build\intermediates\pre-dexed\debug\instant-run_fd96e524a46e5ed38fd681221aa8176adfe08954.jar" />
+    </item>
+    <item
+        jar="F:\Programming\Android\1 My Work\Smartec\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="F:\Programming\Android\1 My Work\Smartec\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_173b44327f3da858846be4465613e5e7bf922425.jar" />
+    </item>
+
+</items>
